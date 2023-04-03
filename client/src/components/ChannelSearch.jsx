@@ -10,6 +10,7 @@ const ChannelSearch = () => {
 
   const getChannels = async (text) => {
     try {
+      //TODO: fetch channels
     } catch (error) {
       setQuery("");
     }
