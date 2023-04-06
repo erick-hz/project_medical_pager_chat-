@@ -9,7 +9,11 @@ const apiKey = "mcc8sx5gncyk";
 
 const client = StreamChat.getInstance(apiKey);
 
+const AuthToken = false;
+
 const App = () => {
+  if (!AuthToken) return <Auth />;
+  
   return (
     <div className="app__wrapper">
       <Chat client={client} theme="team light">
