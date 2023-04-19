@@ -21,24 +21,22 @@ const Auth = () => {
 
   const handleChange = (e) => {
     setForm({ ...form, [e.target.name]: e.target.value });
-
-    console.log(form);
   };
 
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    const { username, password, phoneNumber, avatarURL } = form;
+    const { fullName, username, password, phoneNumber, avatarURL } = form;
 
-    const URL = "https://localhost:5000/auth";
+    const URL = "http://localhost:5000/auth";
     // const URL = 'https://medical-pager.herokuapp.com/auth';
 
     const {
-      data: { token, userId, hashedPassword, fullName },
+      data: { token, userId, hashedPassword },
     } = await axios.post(`${URL}/${isSignup ? "signup" : "login"}`, {
       username,
       password,
-      fullName: form.fullName,
+      fullName,
       phoneNumber,
       avatarURL,
     });
