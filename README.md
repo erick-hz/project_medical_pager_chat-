@@ -63,9 +63,9 @@ GetStream.io is the number one chat messaging platform that allows you to build 
 
 ### Built With
 
-* [![React][React.js]][React-url]
+ [![React][React.js]][React-url]
 
-* [![Node][Node-js]][Node-url]
+ [![Node][Node-js]][Node-url]
 
 
 
