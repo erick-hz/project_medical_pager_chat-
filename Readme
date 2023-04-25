@@ -1,7 +1,20 @@
+
 ![Logo](https://raw.githubusercontent.com/erick-hz/project_medical_pager_chat-/main/client/src/assets/logo.png)
+
+
 
 # Project Medical Pager Chat
 
 With direct and group chats, emojis and reactions, built-in Gif support, the ability to edit and delete messages, specialized commands, and much more, this fully responsive Medical Pager.
 
 GetStream.io is the number one chat messaging platform that allows you to build scalable and custom chat applications using its APIs.
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+
+[![GPLv3 License](https://img.shields.io/badge/Nodejs-20232A?style=for-the-badge&logo=nodejs&logoColor=61DAFB)](https://nodejs.org/en)
+
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
