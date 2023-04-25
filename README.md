@@ -1,4 +1,4 @@
-# project_medical_pager_chat-
+# Project Medical Pager Chat
 
 <a name="readme-top"></a>
 <!-- PROJECT LOGO -->
