@@ -121,5 +121,5 @@ GetStream.io is the number one chat messaging platform that allows you to build 
 [product-screenshot]: client/src/assets/banner.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Node-js]: https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white
+[Node-js]: https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/en
