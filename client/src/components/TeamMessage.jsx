@@ -1,9 +1,10 @@
-import React from 'react'
+import React from "react";
+import { MessageSimple, useMessageContext } from "stream-chat-react";
 
 const TeamMessage = () => {
-  return (
-    <div>TeamMessage</div>
-  )
-}
+  const { message } = useMessageContext();
 
-export default TeamMessage
+  return <MessageSimple message={{ ...message, user: {} }} />;
+};
+
+export default TeamMessage;
