@@ -20,7 +20,7 @@
     ·
     <a href="https://github.com/erick-hz/project_medical_pager_chat-/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/erick-hz/project_medical_pager_chat-/issues">Request Feature</a>
   </p>
 </div>
 
