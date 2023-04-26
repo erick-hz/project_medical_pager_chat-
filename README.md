@@ -65,6 +65,9 @@ GetStream.io is the number one chat messaging platform that allows you to build 
 
  [![React][React.js]][React-url]
  [![Node][Node-js]][Node-url]
+ [![JavaScript][JavaScript]][none]
+ [![CSS][CSS3]][none]
+ [![HTML][HTML5]][none]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,3 +113,6 @@ GetStream.io is the number one chat messaging platform that allows you to build 
 [React-url]: https://reactjs.org/
 [Node-js]: https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/en
+[HTML5](https://img.shields.io/badge/-HTML5-E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+[JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black&color=F7DF1C)
+[CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
