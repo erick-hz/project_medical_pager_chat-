@@ -14,6 +14,10 @@ body {
     height: 100%;
 }
 
+.str-chat__channel-list.str-chat__channel-list-react {
+    background: var(--primary-color);
+}
+
 .auth__form-container {
     min-height: 100vh;
     display: flex;
