@@ -11,7 +11,6 @@
   <h3 align="center">Project Medical Pager Chat</h3>
 
   <p align="center">
-    <br />
     <a href="https://github.com/erick-hz/project_medical_pager_chat-"><strong>Explore the docs »</strong></a>
     <br />
     <br />
